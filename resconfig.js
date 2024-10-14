@@ -14,7 +14,7 @@ const config = {
     region       	: 'indonesia',
     resbot_version  : 'Autoresbot v3.5',
     apikey_resbot   : 'APIKEY_GRATIS', // apikey beli di autoresbot.com
-    nomorsuperOwner : '6285246154386',
+    nomorsuperOwner : '6283829554474',
     grup            : 'https://whatsapp.com/channel/0029VabMgUy9MF99bWrYja2Q',
     email           : 'autoresbot@gmail.com',
     ig           	: '@autoresbot',
